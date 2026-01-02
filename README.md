@@ -1,5 +1,7 @@
 # File-Editor📁
 
+This programm in B.E.T.A
+
 ## ℹ️ About:
 This project was created for changing **Image/Video** size or extension
 
