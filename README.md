@@ -6,7 +6,8 @@ This programm in B.E.T.A
 This project was created for changing **Image/Video** size or extension
 
 ## 📩 How to downoload:
-You need to downoload this project (Fully) and just open **main.py** if you need to use programm
+
+In branch choose Version and Downoload **main.py**
 
 ## ❔ How to use:
 - **Importing:** Import your file into **Upload** button
