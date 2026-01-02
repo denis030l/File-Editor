@@ -1,5 +1,5 @@
 # 📃Tutorial for downoloading.
-First up move into **⭐Main** branch.
+First up move into [**⭐Main**](https://github.com/denis030l/File-Editor/tree/%E2%AD%90Main) branch.
 
 There's will be File: **main.py** - You need to downoload this
 
