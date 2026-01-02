@@ -12,3 +12,6 @@ In branch choose Version and Downoload **main.py**
 - **Importing:** Import your file into **Upload** button
 
 - **Changing extension:** Under Upload button there's **Convert** label, you need to choose extension, then under label will be **Convert** Button. Just press it
+
+> [!IMPORTANT]
+> Dont upload big size files, there's a chance it willn't work
