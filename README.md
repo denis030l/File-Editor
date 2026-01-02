@@ -8,4 +8,4 @@ You need to downoload this project (Fully) and just open **main.py** if you need
 ## ❔ How to use:
  **Importing:** Import your file into **Upload** button
 
- **Sizing:** Under Upload button there's **Convert** label, you must type size
+ **Changing extension:** Under Upload button there's **Convert** label, you need to choose extension, then under label will be **Convert** Button. Just press it
