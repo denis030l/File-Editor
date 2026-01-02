@@ -1,6 +1,6 @@
 # File-Editor📁
 ## ℹ️ About:
-This project was created for changing **Image/Video** size or expansion
+This project was created for changing **Image/Video** size or extension
 ## ❔ How to use:
  **Importing:** Import your file into **Upload** button
 
